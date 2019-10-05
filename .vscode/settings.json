@@ -39,7 +39,11 @@
 		"stdexcept": "cpp",
 		"streambuf": "cpp",
 		"typeinfo": "cpp",
-		"stdio.h": "c"
+		"stdio.h": "c",
+		"chrono": "cpp",
+		"ctime": "cpp",
+		"ratio": "cpp",
+		"iomanip": "cpp"
 	},
 	"editor.fontFamily": "'Fira Code'",
 	"editor.fontSize": 15
